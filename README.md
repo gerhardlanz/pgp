@@ -7,7 +7,7 @@ Fingerprint: `967B D238 B445 0141 E971  ADB8 20B3 B7B9 DDC0 83D0`
 ## Retrieve key from [gerhardla.nz](gerhardla.nz)
 
 ```
-curl https://gerhardla.nz/assets/pubkey.asc | gpg --import
+curl https://gerhardla.nz/assets/gerhardlanz.asc | gpg --import
 ```
 
 ## Retrieve key from [keyserver](https://keys.openpgp.org/)
